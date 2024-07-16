@@ -1,6 +1,6 @@
 {
   "item.experiment.ruby": "Ruby",
-  "item.experiment.ruby.tooltip": "This is a ruby",
   "block.experiment.ruby_block": "Block of Ruby",
+  "block.experiment.ruby_ore": "Ruby ore",
   "creativetab.experimental_tab": "Experimental Tab"
 }
