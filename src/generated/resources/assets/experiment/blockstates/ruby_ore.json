@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "experiment:block/ruby_ore"
+    }
+  }
+}

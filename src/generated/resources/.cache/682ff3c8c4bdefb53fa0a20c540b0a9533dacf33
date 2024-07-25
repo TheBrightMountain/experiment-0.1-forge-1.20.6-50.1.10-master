@@ -1,0 +1,10 @@
+// 1.20.6	2024-07-25T23:29:53.0953455	Block States: experiment
+ed80b4f7b18b84152a47deecd25491c8416a72fa assets/experiment/blockstates/deepslate_ruby_ore.json
+834345583ead81ba7eafd2e704d0e7b6fb97f383 assets/experiment/blockstates/ruby_block.json
+a0e92286cc65ef9695f316d7c7237a208531477c assets/experiment/blockstates/ruby_ore.json
+e7481e1ac1e1e87759f9e74efc124bec2ab70ab7 assets/experiment/models/block/deepslate_ruby_ore.json
+daed897458d3e3c5d0ef04ef810a96a1c8f19a09 assets/experiment/models/block/ruby_block.json
+33d0365c2029098e35ae5aa698d7983a13dd3bdf assets/experiment/models/block/ruby_ore.json
+a1a9b9f40761b513c5245793f923a32e0229aa83 assets/experiment/models/item/deepslate_ruby_ore.json
+f0bc8d1ec7dbfa3dd7a63bafd2fdcb91798e95a1 assets/experiment/models/item/ruby_block.json
+37a4bd3eab605ab8e71c2a5d133a86d5e5db8171 assets/experiment/models/item/ruby_ore.json
