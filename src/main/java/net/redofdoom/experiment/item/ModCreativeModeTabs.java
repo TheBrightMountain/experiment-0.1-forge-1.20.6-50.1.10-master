@@ -22,6 +22,9 @@ public class ModCreativeModeTabs {
             output.accept(ModBlocks.RUBY_BLOCK.get());
             output.accept(ModBlocks.RUBY_ORE.get());
             output.accept(ModBlocks.DEEPSLATE_RUBY_ORE.get());
+            output.accept(ModItems.CLOUD_IN_BOTTLE.get());
+            output.accept(ModItems.LEMON.get());
+            output.accept(ModItems.SOUL_FLAME.get());
             })
             .build());
 

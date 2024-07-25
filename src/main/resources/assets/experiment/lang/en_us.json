@@ -1,5 +1,8 @@
 {
   "item.experiment.ruby": "Ruby",
+  "item.experiment.lemon": "Lemon",
+  "item.experiment.soul_flame": "Soul Flame",
+  "item.experiment.cloud_in_bottle": "Cloud in a bottle",
   "block.experiment.ruby_block": "Block of Ruby",
   "block.experiment.ruby_ore": "Ruby ore",
   "creativetab.experimental_tab": "Experimental Tab"
