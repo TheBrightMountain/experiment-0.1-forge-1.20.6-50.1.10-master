@@ -1,3 +1,6 @@
-// 1.20.6	2024-07-25T23:29:53.097494	Tags for minecraft:block mod id experiment
-b4efe1bbdb30eca9efc1e86fc0af118a84f979c8 data/minecraft/tags/blocks/mineable/pickaxe.json
-b4efe1bbdb30eca9efc1e86fc0af118a84f979c8 data/minecraft/tags/blocks/needs_iron_tool.json
+// 1.20.6	2024-07-29T18:14:57.3043416	Tags for minecraft:block mod id experiment
+b7195fe4405847a5341785f6dff4b72b134fa780 data/minecraft/tags/blocks/fences.json
+a2ea9fd880da8078e9ba51e1033704e9b03066ae data/minecraft/tags/blocks/fence_gates.json
+a90ae371229f1f5f8162dd4cc6155d09b71df6c3 data/minecraft/tags/blocks/mineable/pickaxe.json
+a90ae371229f1f5f8162dd4cc6155d09b71df6c3 data/minecraft/tags/blocks/needs_iron_tool.json
+1db7fa9038baaf4a6b90b61c04ce20099def7ace data/minecraft/tags/blocks/walls.json

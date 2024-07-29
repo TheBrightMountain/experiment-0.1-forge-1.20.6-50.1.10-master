@@ -1,4 +1,13 @@
-// 1.20.6	2024-07-25T23:29:53.0986218	Loot Tables
+// 1.20.6	2024-07-29T17:41:45.356908	Loot Tables
 9ef492b920fc7a0dfdb918e19ffe564a32afe1e7 data/experiment/loot_tables/blocks/deepslate_ruby_ore.json
 893f8e2f079a9483a8c6f6e9ee8d3745e094d419 data/experiment/loot_tables/blocks/ruby_block.json
+cc359e36d3cce38a4e1484546d3fb5f4eb6e8378 data/experiment/loot_tables/blocks/ruby_button.json
+9d50ce784789a361d197ff52654383b1e1e4953f data/experiment/loot_tables/blocks/ruby_door.json
+28147c9884c6598116291a34c07f8b9d0ae91538 data/experiment/loot_tables/blocks/ruby_fence.json
+5084aa42640a522a273ac52e16e76089c4b1bb6c data/experiment/loot_tables/blocks/ruby_fence_gate.json
 4b511cda03dc65ebbaa946f605b7e74c5f101ada data/experiment/loot_tables/blocks/ruby_ore.json
+ed25a2c0eb63f2a47ec6c857716d8b10d4661c5a data/experiment/loot_tables/blocks/ruby_pressure_plate.json
+416b056883f4ca5a92d0860267eb1562fa7e9f63 data/experiment/loot_tables/blocks/ruby_slab.json
+a713fe8ccdb49b83dbb32b5340fb8f4fb14bda1b data/experiment/loot_tables/blocks/ruby_stairs.json
+4b79f931a3103e45401a901f5aa7919cf34270c2 data/experiment/loot_tables/blocks/ruby_trapdoor.json
+96acd442490bfb587275b5c0e741325c9be60b95 data/experiment/loot_tables/blocks/ruby_wall.json

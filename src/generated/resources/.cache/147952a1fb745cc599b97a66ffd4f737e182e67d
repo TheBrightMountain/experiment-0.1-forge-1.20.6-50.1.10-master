@@ -1,5 +1,14 @@
-// 1.20.6	2024-07-25T23:29:53.0963564	Item Models: experiment
+// 1.20.6	2024-07-29T17:41:45.35591	Item Models: experiment
 a6efd6118c060850dac7c1bf1b4eeb70c4699d2b assets/experiment/models/item/cloud_in_bottle.json
 7e78644dbb7f59de4871c8031369141b2b2dfd6a assets/experiment/models/item/lemon.json
 32838e2644ad6310a1c0cdb514d540750f3af88d assets/experiment/models/item/ruby.json
+1080b94fd6bbc934e6bbdd2da3f2424221e1c4a0 assets/experiment/models/item/ruby_button.json
+6810241f1c16c8f9c5c595d5f038fb722a0a9daf assets/experiment/models/item/ruby_door.json
+226c85963c64c93a3483784cd76706740a00126f assets/experiment/models/item/ruby_fence.json
+43c067491af65902b987f2da595b5117ae2aa7c4 assets/experiment/models/item/ruby_fence_gate.json
+ef7db3814d0bafd4d9fd05e9f066e755ac17c3f7 assets/experiment/models/item/ruby_pressure_plate.json
+d56294f99110b9da25242f5e3ec4e33563f4b7ae assets/experiment/models/item/ruby_slab.json
+ec5fcea516e4ff751e5676b1457566e99ec558ff assets/experiment/models/item/ruby_stairs.json
+7cf5b3397c822e8a06839958c1ad502410ac0998 assets/experiment/models/item/ruby_trapdoor.json
+90320f0b444ee1fad14fdffa89f311daeff0f464 assets/experiment/models/item/ruby_wall.json
 39ea597064350b11358285183b3da677faf31f5f assets/experiment/models/item/soul_flame.json

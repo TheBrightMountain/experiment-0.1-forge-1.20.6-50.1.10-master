@@ -3,7 +3,20 @@
   "item.experiment.lemon": "Lemon",
   "item.experiment.soul_flame": "Soul Flame",
   "item.experiment.cloud_in_bottle": "Cloud in a bottle",
+
   "block.experiment.ruby_block": "Block of Ruby",
-  "block.experiment.ruby_ore": "Ruby ore",
+  "block.experiment.ruby_stairs": "Ruby Stairs",
+  "block.experiment.ruby_slab": "Ruby Slab",
+  "block.experiment.ruby_button": "Ruby Button",
+  "block.experiment.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.experiment.ruby_fence": "Ruby Fence",
+  "block.experiment.ruby_fence_gate": "Ruby Fence Gate",
+  "block.experiment.ruby_wall": "Ruby Wall",
+  "block.experiment.ruby_door": "Ruby Door",
+  "block.experiment.ruby_trapdoor": "Ruby Trap Door",
+  "block.experiment.ruby_ore": "Ruby Ore",
+  "block.experiment.ruby_deepslate_ore": "Ruby Deepslate Ore",
+
+
   "creativetab.experimental_tab": "Experimental Tab"
 }

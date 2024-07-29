@@ -1,6 +1,15 @@
 {
   "values": [
     "experiment:ruby_block",
+    "experiment:ruby_stairs",
+    "experiment:ruby_slab",
+    "experiment:ruby_button",
+    "experiment:ruby_pressure_plate",
+    "experiment:ruby_fence",
+    "experiment:ruby_fence_gate",
+    "experiment:ruby_wall",
+    "experiment:ruby_door",
+    "experiment:ruby_trapdoor",
     "experiment:ruby_ore",
     "experiment:deepslate_ruby_ore"
   ]
