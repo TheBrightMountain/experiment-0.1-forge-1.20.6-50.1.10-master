@@ -18,7 +18,7 @@ public class SpeedboostBlock extends Block {
     public void stepOn(Level pLevel, BlockPos pPos, BlockState pState, Entity pEntity) {
         if (pEntity instanceof Player pPlayer)
         {
-            pPlayer.addEffect(new MobEffectInstance(MobEffects.REGENERATION, 2,1));
+            pPlayer.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 2,1));
         }
         super.stepOn(pLevel, pPos, pState, pEntity);
     }
