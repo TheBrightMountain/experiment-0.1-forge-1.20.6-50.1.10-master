@@ -4,8 +4,10 @@ import net.minecraft.data.PackOutput;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
+import net.minecraftforge.client.model.generators.ItemModelBuilder;
 import net.minecraftforge.client.model.generators.ItemModelProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;
+import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.redofdoom.experiment.Experiment;
@@ -23,6 +25,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.LEMON);
         simpleItem(ModItems.SOUL_FLAME);
         simpleItem(ModItems.CLOUD_IN_BOTTLE);
+        handheldItem(ModItems.RUBY_SWORD);
 
         simpleBlockItem(ModBlocks.RUBY_DOOR);
         evenSimplerBlockItem(ModBlocks.RUBY_STAIRS);
@@ -41,6 +44,12 @@ public class ModItemModelProvider extends ItemModelProvider {
     private void simpleItem (RegistryObject<Item> item){
         this.withExistingParent(item.getId().getPath(),
                 new ResourceLocation("item/generated")).texture("layer0", new ResourceLocation(Experiment.MOD_ID, "item/" + item.getId().getPath()));
+    }
+
+    private void handheldItem(RegistryObject<Item> item) {
+        this.withExistingParent(item.getId().getPath(),
+                new ResourceLocation("item/handheld")).texture("layer0",
+                new ResourceLocation(Experiment.MOD_ID,"item/" + item.getId().getPath()));
     }
 
     public void fenceItem(RegistryObject<Block> block, RegistryObject<Block> baseBlock) {
